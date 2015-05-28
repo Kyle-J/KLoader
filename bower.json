@@ -1,0 +1,29 @@
+{
+  "name": "KLoader",
+  "version": "0.0.0",
+  "authors": [
+    "Kyle Waters (kyle@56kilobit.com)"
+  ],
+  "description": "Small/simple jQuery load more / infinite scroll / history push plugin",
+  "main": "Kloader.min.js",
+  "keywords": [
+    "jQuery",
+    "Loader",
+    "Infinate",
+    "Scroll",
+    "Load",
+    "More"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+  },
+  "license": "GNU",
+  "homepage": "www.56kilobit.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
