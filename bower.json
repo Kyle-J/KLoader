@@ -14,9 +14,9 @@
     "Load",
     "More"
   ],
-  "dependencies": {
+  "dependencies": [
     "jquery": "~2.1.4"
-  },
+  ],
   "license": "GNU",
   "homepage": "www.56kilobit.com",
   "ignore": [
